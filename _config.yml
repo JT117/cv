@@ -10,11 +10,11 @@ user_description: Je suis actuellement Lead Developer chez Worldline.</br>Dans u
 user_title: Lead Software Developer
 email: julien.teruel@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  jt117
 gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-97338162-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
